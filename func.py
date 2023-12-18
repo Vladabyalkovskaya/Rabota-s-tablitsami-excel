@@ -1,6 +1,7 @@
 import pandas as pd
 a = pd.read_excel('phone_numbers.xlsx')
 b = []
+c = 0
 f = ''
 g = "0123456789"
 k = []

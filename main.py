@@ -13,4 +13,3 @@ print(df)
 writer = pd.ExcelWriter('output.xlsx')
 df.to_excel(writer)
 writer.close()
-
